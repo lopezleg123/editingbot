@@ -1,4 +1,4 @@
-¡Hola! Bienvenido al repositorio de mi programa que automáticamente une una imagen con un audio. Este programa se basa en Python y utiliza dos archivos principales: "editingBot.py" y "setup.py".
+¡Hola! Bienvenido al repositorio de mi programa que automáticamente une una imagen con un audio, ademas de recortar los silencios en el audio. Este programa se basa en Python y utiliza dos archivos principales: "editingBot.py" y "setup.py".
 
 Para utilizar el programa, primero debes instalar los requisitos necesarios ejecutando el archivo "setup.py". Este archivo instalará todas las bibliotecas requeridas para que el programa funcione correctamente.
 
